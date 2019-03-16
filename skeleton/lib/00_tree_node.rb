@@ -58,12 +58,6 @@ class PolyTreeNode
             else
                 queue += eval.children
             end
-
-
-
         end  
-
-
     end
-
 end
